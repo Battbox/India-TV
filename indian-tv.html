@@ -790,41 +790,116 @@ html,body{height:100%;background:var(--bg);color:var(--white);font-family:var(--
 var CH = [
   // ═══ HINDI — News ═══
   {id:"ndtv-india",     name:"NDTV India",       cat:"Hindi",    genre:"News",         color:"#cc0000",
-   streams:["https://ndtvindiaelemarchana.akamaized.net/hls/live/2003680/ndtvindia/master.m3u8"], web:"https://www.ndtv.com/india"},
+   streams:[
+     "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+     "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8",
+     "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003680/ndtvindia/master.m3u8"
+   ], web:"https://www.ndtv.com/india"},
   {id:"aajtak",         name:"Aaj Tak",          cat:"Hindi",    genre:"News",         color:"#e30613",
-   streams:["https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"], web:"https://www.aajtak.in"},
+   streams:[
+     "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+     "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+     "https://feeds.intoday.in/aajtak/api/master.m3u8",
+     "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+     "https://ncdn.telewebion.ir/atrak/live/playlist.m3u8"
+   ], web:"https://www.aajtak.in"},
   {id:"abp-news",       name:"ABP News",         cat:"Hindi",    genre:"News",         color:"#d32028",
-   streams:["https://abp-live.akamaized.net/hls/live/2043010/AbpNews/master.m3u8"], web:"https://news.abplive.com"},
+   streams:[
+     "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
+     "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+     "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8",
+     "https://abp-live.akamaized.net/hls/live/2043010/AbpNews/master.m3u8"
+   ], web:"https://news.abplive.com"},
   {id:"india-tv",       name:"India TV",         cat:"Hindi",    genre:"News",         color:"#cf152d",
-   streams:["https://livecdnh1.tvanywhere.sg:444/itvhdabr/itvhdabr.smil/playlist.m3u8"], web:"https://www.indiatv.in"},
+   streams:[
+     "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+     "https://cdn-2.pishow.tv/live/1043/master.m3u8",
+     "https://mumt01.tangotv.in/INDIATV/index.m3u8",
+     "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
+     "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8",
+     "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8",
+     "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi",
+     "https://livecdnh1.tvanywhere.sg:444/itvhdabr/itvhdabr.smil/playlist.m3u8"
+   ], web:"https://www.indiatv.in"},
   {id:"news18-india",   name:"News18 India",     cat:"Hindi",    genre:"News",         color:"#cc0000",
-   streams:["https://cdnsupport.web3box.com/hls/news18hindi.m3u8"], web:"https://hindi.news18.com"},
+   streams:[
+     "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+     "https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8",
+     "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8",
+     "https://cdnsupport.web3box.com/hls/news18hindi.m3u8"
+   ], web:"https://hindi.news18.com"},
   {id:"zee-news",       name:"Zee News",         cat:"Hindi",    genre:"News",         color:"#a1198b",
-   streams:["https://zeenews.akamaized.net/hls/live/2031753/Zee_News/master.m3u8"], web:"https://zeenews.india.com"},
+   streams:[
+     "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+     "https://dt3lrqnyx3dks.cloudfront.net/index.m3u8",
+     "https://mumt05.tangotv.in/NENEWS/index.m3u8",
+     "https://zeenews.akamaized.net/hls/live/2031753/Zee_News/master.m3u8"
+   ], web:"https://zeenews.india.com"},
   {id:"republic-bharat",name:"Republic Bharat",  cat:"Hindi",    genre:"News",         color:"#ffcc00",
-   streams:["https://d3s90tu29p2j47.cloudfront.net/v1/manifest/d40b8392adf2bc6c4d894d77f55ab35cda41d8b3/Republic_Bharat/d6ee64f3-c89b-4d2c-8ab1-2935e87c6a8e/0.m3u8"], web:"https://www.republicbharat.com"},
+   streams:[
+     "https://cdn-2.pishow.tv/live/1053/master.m3u8",
+     "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8",
+     "https://cdn-4.pishow.tv/live/270/master.m3u8",
+     "https://d3s90tu29p2j47.cloudfront.net/v1/manifest/d40b8392adf2bc6c4d894d77f55ab35cda41d8b3/Republic_Bharat/d6ee64f3-c89b-4d2c-8ab1-2935e87c6a8e/0.m3u8"
+   ], web:"https://www.republicbharat.com"},
   {id:"tv9-bharatvarsh",name:"TV9 Bharatvarsh",  cat:"Hindi",    genre:"News",         color:"#ed1c24",
-   streams:["https://d3yzv0pf5xg2lf.cloudfront.net/v1/master/0d2bb997a012ca6e69465fa55a36054a72de6db4/cw-uncwlrr-prod-dasinfra/elemental/index.m3u8"], web:"https://www.tv9hindi.com"},
+   streams:[
+     "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+     "https://d3yzv0pf5xg2lf.cloudfront.net/v1/master/0d2bb997a012ca6e69465fa55a36054a72de6db4/cw-uncwlrr-prod-dasinfra/elemental/index.m3u8"
+   ], web:"https://www.tv9hindi.com"},
 
   // ═══ HINDI — Entertainment ═══
   {id:"zee-tv",         name:"Zee TV",           cat:"Hindi",    genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeetvworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeetvworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
   {id:"sab-tv",         name:"SAB TV",           cat:"Hindi",    genre:"Entertainment",color:"#f7941e",
-   streams:["https://www.sonyliv.com"], web:"https://www.sonyliv.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a0db/index.m3u8",
+     "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+     "https://www.sonyliv.com"
+   ], web:"https://www.sonyliv.com"},
   {id:"colors-tv",      name:"Colors TV",        cat:"Hindi",    genre:"Entertainment",color:"#fc6f23",
-   streams:["https://voot-live.akamaized.net/hls/live/2010594/colors_hd/master.m3u8"], web:"https://www.voot.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a0a1/index.m3u8",
+     "http://103.229.254.25:7001/play/a077/index.m3u8",
+     "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
+     "https://voot-live.akamaized.net/hls/live/2010594/colors_hd/master.m3u8"
+   ], web:"https://www.voot.com"},
   {id:"and-tv",         name:"&TV",              cat:"Hindi",    genre:"Entertainment",color:"#7e2faa",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/andtvworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a034/index.m3u8",
+     "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+     "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+     "http://103.229.254.25:7001/play/a09v/index.m3u8",
+     "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
+     "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8",
+     "https://mumt01.tangotv.in/PASANDTV/index.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/andtvworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
 
   // ═══ HINDI — Movies ═══
   {id:"b4u-movies",     name:"B4U Movies",       cat:"Hindi",    genre:"Movies",       color:"#ed1c24",
-   streams:["https://b4umovies-jiotv.akamaized.net/hls/live/2014334/b4umovies/master.m3u8"], web:"https://www.b4utv.com"},
+   streams:[
+     "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
+     "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202",
+     "https://b4umovies-jiotv.akamaized.net/hls/live/2014334/b4umovies/master.m3u8"
+   ], web:"https://www.b4utv.com"},
   {id:"zee-bollywood",  name:"Zee Bollywood",    cat:"Hindi",    genre:"Movies",       color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeebollywoodworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
+     "http://31.148.48.15/AMC/index.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeebollywoodworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
 
   // ═══ HINDI — Music ═══
   {id:"9xm",            name:"9XM",              cat:"Hindi",    genre:"Music",        color:"#1d1d1d",
-   streams:["https://9xmhd.akamaized.net/hls/live/2034604/9XM/master.m3u8"], web:"https://www.9xm.tv"},
+   streams:[
+     "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+     "https://9xmhd.akamaized.net/hls/live/2034604/9XM/master.m3u8"
+   ], web:"https://www.9xm.tv"},
   {id:"mtv-beats",      name:"MTV Beats",        cat:"Hindi",    genre:"Music",        color:"#ed1c24",
    streams:["https://voot-live.akamaized.net/hls/live/2010594/mtv_beats_hd/master.m3u8"], web:"https://www.voot.com"},
   {id:"b4u-music",      name:"B4U Music",        cat:"Hindi",    genre:"Music",        color:"#ed1c24",
@@ -832,131 +907,384 @@ var CH = [
 
   // ═══ TAMIL ═══
   {id:"sun-news",       name:"Sun News",         cat:"Tamil",    genre:"News",         color:"#ffcc00",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/sunnews/sunnews.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://mumt05.tangotv.in/NENEWS/index.m3u8",
+     "https://mumt03.tangotv.in/1SNEWS/index.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/sunnews/sunnews.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"thanthi-tv",     name:"Thanthi TV",       cat:"Tamil",    genre:"News",         color:"#0066b3",
-   streams:["https://thanthitv-jiotv.akamaized.net/hls/live/2013350/thanthitv/master.m3u8"], web:"https://www.thanthitv.com"},
+   streams:[
+     "https://cdn-3.pishow.tv/live/1612/master.m3u8",
+     "https://cdn-1.pishow.tv/live/397/master.m3u8",
+     "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+     "https://thanthitv-jiotv.akamaized.net/hls/live/2013350/thanthitv/master.m3u8"
+   ], web:"https://www.thanthitv.com"},
   {id:"polimer-news",   name:"Polimer News",     cat:"Tamil",    genre:"News",         color:"#ed1c24",
-   streams:["https://polimernews-amd.akamaized.net/hls/live/2034678/polimer-news/master.m3u8"], web:"https://www.polimernews.com"},
+   streams:[
+     "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
+     "https://cdn-3.pishow.tv/live/1245/master.m3u8",
+     "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+     "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+     "https://polimernews-amd.akamaized.net/hls/live/2034678/polimer-news/master.m3u8"
+   ], web:"https://www.polimernews.com"},
   {id:"sun-tv",         name:"Sun TV",           cat:"Tamil",    genre:"Entertainment",color:"#ed1c24",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/suntv/suntv.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
+     "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07",
+     "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/suntv/suntv.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"zee-tamil",      name:"Zee Tamil",        cat:"Tamil",    genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeetamilworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeetamilworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
   {id:"ktv",            name:"KTV",              cat:"Tamil",    genre:"Movies",       color:"#cc0000",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/ktv/ktv.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+     "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/ktv/ktv.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"sun-music",      name:"Sun Music",        cat:"Tamil",    genre:"Music",        color:"#ed1c24",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/sunmusic/sunmusic.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+     "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
+     "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/sunmusic/sunmusic.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"raj-tv",         name:"Raj TV",           cat:"Tamil",    genre:"Entertainment",color:"#0066b3",
-   streams:["https://rajtvott.akamaized.net/hls/live/2032003/rajtv/index.m3u8"], web:"https://rajtvnet.in"},
+   streams:[
+     "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+     "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+     "https://rajtvott.akamaized.net/hls/live/2032003/rajtv/index.m3u8"
+   ], web:"https://rajtvnet.in"},
 
   // ═══ TELUGU ═══
   {id:"tv9-telugu",     name:"TV9 Telugu",       cat:"Telugu",   genre:"News",         color:"#ed1c24",
-   streams:["https://tv9telugulive.akamaized.net/hls/live/2034679/tv9telugu/master.m3u8"], web:"https://www.tv9telugu.com"},
+   streams:[
+     "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8",
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/383/master.m3u8",
+     "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8",
+     "https://tv9telugulive.akamaized.net/hls/live/2034679/tv9telugu/master.m3u8"
+   ], web:"https://www.tv9telugu.com"},
   {id:"abn-telugu",     name:"ABN Andhra Jyothy",cat:"Telugu",   genre:"News",         color:"#cc0000",
-   streams:["https://abnliveapp.akamaized.net/hls/live/2034681/abntelugu/master.m3u8"], web:"https://www.andhrajyothy.com"},
+   streams:[
+     "https://cdn-1.pishow.tv/live/407/master.m3u8",
+     "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+     "https://abnliveapp.akamaized.net/hls/live/2034681/abntelugu/master.m3u8"
+   ], web:"https://www.andhrajyothy.com"},
   {id:"ntv-telugu",     name:"NTV Telugu",       cat:"Telugu",   genre:"News",         color:"#0066b3",
-   streams:["https://ntvtelugulive.akamaized.net/hls/live/2034682/ntvtelugu/master.m3u8"], web:"https://ntvtelugu.com"},
+   streams:[
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/383/master.m3u8",
+     "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8",
+     "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/232/master.m3u8",
+     "https://ntvtelugulive.akamaized.net/hls/live/2034682/ntvtelugu/master.m3u8"
+   ], web:"https://ntvtelugu.com"},
   {id:"gemini-tv",      name:"Gemini TV",        cat:"Telugu",   genre:"Entertainment",color:"#0066b3",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/geminitv/geminitv.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202",
+     "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/geminitv/geminitv.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"etv-telugu",     name:"ETV Telugu",       cat:"Telugu",   genre:"Entertainment",color:"#0066b3",
-   streams:["https://etvwin-live.akamaized.net/hls/live/2034683/etvtelugu/master.m3u8"], web:"https://www.etvwin.com"},
+   streams:[
+     "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8",
+     "https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/383/master.m3u8",
+     "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8",
+     "https://etvwin-live.akamaized.net/hls/live/2034683/etvtelugu/master.m3u8"
+   ], web:"https://www.etvwin.com"},
   {id:"zee-telugu",     name:"Zee Telugu",       cat:"Telugu",   genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeeteluguworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeeteluguworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
   {id:"sakshi-tv",      name:"Sakshi TV",        cat:"Telugu",   genre:"News",         color:"#ed1c24",
-   streams:["https://sakshilive.akamaized.net/hls/live/2034684/sakshi/master.m3u8"], web:"https://www.sakshi.com"},
+   streams:[
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/409/master.m3u8",
+     "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
+     "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+     "https://sakshilive.akamaized.net/hls/live/2034684/sakshi/master.m3u8"
+   ], web:"https://www.sakshi.com"},
 
   // ═══ MALAYALAM ═══
   {id:"asianet-news",   name:"Asianet News",     cat:"Malayalam",genre:"News",         color:"#0066b3",
-   streams:["https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"], web:"https://www.asianetnews.com"},
+   streams:[
+     "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
+     "https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8",
+     "https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8",
+     "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+   ], web:"https://www.asianetnews.com"},
   {id:"manorama-news",  name:"Manorama News",    cat:"Malayalam",genre:"News",         color:"#cc0000",
-   streams:["https://mnews-zwl.akamaized.net/hls/live/2034685/manoramanews/master.m3u8"], web:"https://www.manoramanews.com"},
+   streams:[
+     "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8",
+     "https://cdn-1.pishow.tv/live/401/master.m3u8",
+     "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
+     "https://mnews-zwl.akamaized.net/hls/live/2034685/manoramanews/master.m3u8"
+   ], web:"https://www.manoramanews.com"},
   {id:"mathrubhumi-news",name:"Mathrubhumi News",cat:"Malayalam",genre:"News",         color:"#ed1c24",
-   streams:["https://mbnews.akamaized.net/hls/live/2034686/mbnews/master.m3u8"], web:"https://www.mathrubhumi.com"},
+   streams:[
+     "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+     "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8",
+     "https://mbnews.akamaized.net/hls/live/2034686/mbnews/master.m3u8"
+   ], web:"https://www.mathrubhumi.com"},
   {id:"asianet",        name:"Asianet",          cat:"Malayalam",genre:"Entertainment",color:"#fcb415",
-   streams:["https://hotstar.com"], web:"https://www.hotstar.com"},
+   streams:[
+     "https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8",
+     "https://hotstar.com"
+   ], web:"https://www.hotstar.com"},
   {id:"surya-tv",       name:"Surya TV",         cat:"Malayalam",genre:"Entertainment",color:"#ed1c24",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/surya/surya.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://stream.ottlive.co.in/suryatvtamil/index.m3u8",
+     "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+     "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/surya/surya.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"mazhavil",       name:"Mazhavil Manorama",cat:"Malayalam",genre:"Entertainment",color:"#7e2faa",
-   streams:["https://mazhavil.akamaized.net/hls/live/2034687/mazhavil/master.m3u8"], web:"https://www.mazhavilmanorama.com"},
+   streams:[
+     "https://cdn-7.pishow.tv/live/1129/master.m3u8",
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8",
+     "https://cdn-3.pishow.tv/live/1479/master.m3u8",
+     "https://mazhavil.akamaized.net/hls/live/2034687/mazhavil/master.m3u8"
+   ], web:"https://www.mazhavilmanorama.com"},
   {id:"flowers-tv",     name:"Flowers TV",       cat:"Malayalam",genre:"Entertainment",color:"#fc6f23",
-   streams:["https://flowerstv.akamaized.net/hls/live/2034688/flowers/master.m3u8"], web:"https://www.flowersonair.com"},
+   streams:[
+     "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+     "https://powertvkannada.com/hls/stream.m3u8",
+     "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+     "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
+     "https://flowerstv.akamaized.net/hls/live/2034688/flowers/master.m3u8"
+   ], web:"https://www.flowersonair.com"},
 
   // ═══ KANNADA ═══
   {id:"tv9-kannada",    name:"TV9 Kannada",      cat:"Kannada",  genre:"News",         color:"#ed1c24",
-   streams:["https://tv9kannadalive.akamaized.net/hls/live/2034689/tv9kannada/master.m3u8"], web:"https://www.tv9kannada.com"},
+   streams:[
+     "https://cdn-3.pishow.tv/live/1526/master.m3u8",
+     "https://mumt05.tangotv.in/NKRTV/index.m3u8",
+     "https://stream.ottlive.co.in/nkrtv/index.m3u8",
+     "https://tv9kannadalive.akamaized.net/hls/live/2034689/tv9kannada/master.m3u8"
+   ], web:"https://www.tv9kannada.com"},
   {id:"public-tv",      name:"Public TV",        cat:"Kannada",  genre:"News",         color:"#0066b3",
-   streams:["https://publictvlive.akamaized.net/hls/live/2034690/publictv/master.m3u8"], web:"https://publictv.in"},
+   streams:[
+     "https://cdn-3.pishow.tv/live/439/master.m3u8",
+     "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
+     "https://cdn-2.pishow.tv/live/271/master.m3u8",
+     "https://publictvlive.akamaized.net/hls/live/2034690/publictv/master.m3u8"
+   ], web:"https://publictv.in"},
   {id:"udaya-tv",       name:"Udaya TV",         cat:"Kannada",  genre:"Entertainment",color:"#ed1c24",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/udayatv/udayatv.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+     "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/udayatv/udayatv.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"zee-kannada",    name:"Zee Kannada",      cat:"Kannada",  genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeekannadaworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeekannadaworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
 
   // ═══ BENGALI ═══
   {id:"zee-bangla",     name:"Zee Bangla",       cat:"Bengali",  genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeebanglaworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a070/index.m3u8",
+     "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeebanglaworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
   {id:"colors-bangla",  name:"Colors Bangla",    cat:"Bengali",  genre:"Entertainment",color:"#fc6f23",
-   streams:["https://voot-live.akamaized.net/hls/live/2010594/colors_bangla_hd/master.m3u8"], web:"https://www.voot.com"},
+   streams:[
+     "http://103.229.254.25:7001/play/a0ds/index.m3u8",
+     "https://voot-live.akamaized.net/hls/live/2010594/colors_bangla_hd/master.m3u8"
+   ], web:"https://www.voot.com"},
   {id:"sun-bangla",     name:"Sun Bangla",       cat:"Bengali",  genre:"Entertainment",color:"#ed1c24",
-   streams:["https://sunnxt-live-prod.s.llnwi.net/sunbangla/sunbangla.m3u8"], web:"https://www.sunnxt.com"},
+   streams:[
+     "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+     "https://cdn-4.pishow.tv/live/37/master.m3u8",
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8",
+     "https://mumt05.tangotv.in/DDBANGLA/index.m3u8",
+     "https://sunnxt-live-prod.s.llnwi.net/sunbangla/sunbangla.m3u8"
+   ], web:"https://www.sunnxt.com"},
   {id:"abp-ananda",     name:"ABP Ananda",       cat:"Bengali",  genre:"News",         color:"#d32028",
-   streams:["https://abpananda.akamaized.net/hls/live/2034691/abpananda/master.m3u8"], web:"https://bengali.abplive.com"},
+   streams:[
+     "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8",
+     "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+     "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
+     "https://abpananda.akamaized.net/hls/live/2034691/abpananda/master.m3u8"
+   ], web:"https://bengali.abplive.com"},
 
   // ═══ MARATHI ═══
   {id:"zee-marathi",    name:"Zee Marathi",      cat:"Marathi",  genre:"Entertainment",color:"#a1198b",
-   streams:["https://zee5live.akamaized.net/hls/live/2002118/zeemarathiworld/master.m3u8"], web:"https://www.zee5.com"},
+   streams:[
+     "https://cdn-3.pishow.tv/live/1229/master.m3u8",
+     "https://zee5live.akamaized.net/hls/live/2002118/zeemarathiworld/master.m3u8"
+   ], web:"https://www.zee5.com"},
   {id:"abp-majha",      name:"ABP Majha",        cat:"Marathi",  genre:"News",         color:"#d32028",
-   streams:["https://abpmajha.akamaized.net/hls/live/2034692/abpmajha/master.m3u8"], web:"https://marathi.abplive.com"},
+   streams:[
+     "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8",
+     "https://abpmajha.akamaized.net/hls/live/2034692/abpmajha/master.m3u8"
+   ], web:"https://marathi.abplive.com"},
   {id:"tv9-marathi",    name:"TV9 Marathi",      cat:"Marathi",  genre:"News",         color:"#ed1c24",
-   streams:["https://tv9marathilive.akamaized.net/hls/live/2034693/tv9marathi/master.m3u8"], web:"https://www.tv9marathi.com"},
+   streams:[
+     "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+     "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8",
+     "https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8",
+     "https://tv9marathilive.akamaized.net/hls/live/2034693/tv9marathi/master.m3u8"
+   ], web:"https://www.tv9marathi.com"},
 
   // ═══ PUNJABI ═══
   {id:"ptc-punjabi",    name:"PTC Punjabi",      cat:"Punjabi",  genre:"Entertainment",color:"#0066b3",
-   streams:["https://ptcptcjiotv.akamaized.net/hls/live/2014335/ptcpunjabi/master.m3u8"], web:"https://www.ptcpunjabi.co.in"},
+   streams:[
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
+     "https://cdn-2.pishow.tv/live/1604/master.m3u8",
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8",
+     "https://cdn-7.pishow.tv/live/450/master.m3u8",
+     "https://ptcptcjiotv.akamaized.net/hls/live/2014335/ptcpunjabi/master.m3u8"
+   ], web:"https://www.ptcpunjabi.co.in"},
   {id:"pitaara",        name:"Pitaara",          cat:"Punjabi",  genre:"Entertainment",color:"#7e2faa",
-   streams:["https://pitaara-jiotv.akamaized.net/hls/live/2014335/pitaara/master.m3u8"], web:"https://www.pitaaratv.com"},
+   streams:[
+     "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+     "https://pitaara-jiotv.akamaized.net/hls/live/2014335/pitaara/master.m3u8"
+   ], web:"https://www.pitaaratv.com"},
   {id:"chardikla",      name:"Chardikla Time TV",cat:"Punjabi",  genre:"News",         color:"#fcb415",
-   streams:["https://chardikla.akamaized.net/hls/live/2034694/chardikla/master.m3u8"], web:"https://www.chardiklatimetv.com"},
+   streams:[
+     "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
+     "https://cdn-4.pishow.tv/live/1627/master.m3u8",
+     "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+     "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
+     "https://chardikla.akamaized.net/hls/live/2034694/chardikla/master.m3u8"
+   ], web:"https://www.chardiklatimetv.com"},
   {id:"9x-tashan",      name:"9X Tashan",        cat:"Punjabi",  genre:"Music",        color:"#1d1d1d",
-   streams:["https://9xtashanhd.akamaized.net/hls/live/2034604/9XTashan/master.m3u8"], web:"https://www.9xtashan.com"},
+   streams:[
+     "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+     "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+     "https://cdn-2.pishow.tv/live/1613/master.m3u8",
+     "https://9xtashanhd.akamaized.net/hls/live/2034604/9XTashan/master.m3u8"
+   ], web:"https://www.9xtashan.com"},
 
   // ═══ ENGLISH / NATIONAL ═══
   {id:"ndtv-247",       name:"NDTV 24x7",        cat:"English",  genre:"News",         color:"#cc0000",
-   streams:["https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"], web:"https://www.ndtv.com"},
+   streams:[
+     "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+     "https://mumt02.tangotv.in/IND24/index.m3u8",
+     "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+   ], web:"https://www.ndtv.com"},
   {id:"india-today",    name:"India Today",      cat:"English",  genre:"News",         color:"#1c4587",
-   streams:["https://feeds.intoday.in/it_english/api/itenghd/master.m3u8"], web:"https://www.indiatoday.in"},
+   streams:[
+     "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8",
+     "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+     "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+     "https://cdn-2.pishow.tv/live/1043/master.m3u8",
+     "https://mumt01.tangotv.in/INDIATV/index.m3u8",
+     "https://feeds.intoday.in/it_english/api/itenghd/master.m3u8"
+   ], web:"https://www.indiatoday.in"},
   {id:"republic-tv",    name:"Republic TV",      cat:"English",  genre:"News",         color:"#ffcc00",
-   streams:["https://d3s90tu29p2j47.cloudfront.net/v1/manifest/d40b8392adf2bc6c4d894d77f55ab35cda41d8b3/Republic_TV/3aaff3b1-c8e8-43d2-a6de-bac5b7b9b0bf/0.m3u8"], web:"https://www.republicworld.com"},
+   streams:[
+     "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
+     "https://cdn-2.pishow.tv/live/271/master.m3u8",
+     "https://cdn-3.pishow.tv/live/439/master.m3u8",
+     "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+     "https://d3s90tu29p2j47.cloudfront.net/v1/manifest/d40b8392adf2bc6c4d894d77f55ab35cda41d8b3/Republic_TV/3aaff3b1-c8e8-43d2-a6de-bac5b7b9b0bf/0.m3u8"
+   ], web:"https://www.republicworld.com"},
   {id:"mirror-now",     name:"Mirror Now",       cat:"English",  genre:"News",         color:"#0066b3",
-   streams:["https://mirrornow.akamaized.net/hls/live/2034695/mirrornow/master.m3u8"], web:"https://www.timesnownews.com/mirror-now"},
+   streams:[
+     "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
+     "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+     "https://mirrornow.akamaized.net/hls/live/2034695/mirrornow/master.m3u8"
+   ], web:"https://www.timesnownews.com/mirror-now"},
   {id:"wion",           name:"WION",             cat:"English",  genre:"News",         color:"#cc0000",
-   streams:["https://wionhdlive.akamaized.net/hls/live/2034696/wionhd/master.m3u8"], web:"https://www.wionews.com"},
+   streams:[
+     "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+     "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+     "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
+     "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
+     "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
+     "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
+     "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
+     "https://wionhdlive.akamaized.net/hls/live/2034696/wionhd/master.m3u8"
+   ], web:"https://www.wionews.com"},
   {id:"cnn-news18",     name:"CNN News18",       cat:"English",  genre:"News",         color:"#cc0000",
    streams:["https://cnnnews18-jiotv.akamaized.net/hls/live/2014336/cnnnews18/master.m3u8"], web:"https://www.news18.com"},
   {id:"times-now",      name:"Times Now",        cat:"English",  genre:"News",         color:"#0066b3",
    streams:["https://timesnowhd.akamaized.net/hls/live/2034697/timesnow/master.m3u8"], web:"https://www.timesnownews.com"},
   {id:"dd-news",        name:"DD News",          cat:"English",  genre:"News",         color:"#0066b3",
-   streams:["https://ddnews-live.akamaized.net/hls/live/2034698/ddnews/master.m3u8"], web:"http://ddnews.gov.in"},
+   streams:[
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
+     "https://cdn-2.pishow.tv/live/12/master.m3u8",
+     "https://mumt04.tangotv.in/DDNEWS/index.m3u8",
+     "https://ddnews-live.akamaized.net/hls/live/2034698/ddnews/master.m3u8"
+   ], web:"http://ddnews.gov.in"},
   {id:"dd-national",    name:"DD National",      cat:"English",  genre:"Entertainment",color:"#003d99",
-   streams:["https://ddnational-live.akamaized.net/hls/live/2034699/ddnational/master.m3u8"], web:"http://ddindia.gov.in"},
+   streams:[
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+     "https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8",
+     "https://cdn-1.pishow.tv/live/11/master.m3u8",
+     "https://ddnational-live.akamaized.net/hls/live/2034699/ddnational/master.m3u8"
+   ], web:"http://ddindia.gov.in"},
   {id:"dd-sports",      name:"DD Sports",        cat:"English",  genre:"Sports",       color:"#005c00",
-   streams:["https://ddsports-live.akamaized.net/hls/live/2034700/ddsports/master.m3u8"], web:"http://ddsports.gov.in"},
+   streams:[
+     "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+     "https://cdn-6.pishow.tv/live/13/master.m3u8",
+     "https://mumt02.tangotv.in/DDSPORTS/index.m3u8",
+     "https://ddsports-live.akamaized.net/hls/live/2034700/ddsports/master.m3u8"
+   ], web:"http://ddsports.gov.in"},
 
   // ═══ DEVOTIONAL ═══
   {id:"aastha",         name:"Aastha",           cat:"Hindi",    genre:"Religious",    color:"#cc6600",
-   streams:["https://aasthatv.akamaized.net/hls/live/2034701/aasthatv/master.m3u8"], web:"https://www.aasthatv.com"},
+   streams:[
+     "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+     "https://cdn-1.pishow.tv/live/1454/master.m3u8",
+     "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
+     "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
+     "https://cdn-1.pishow.tv/live/262/master.m3u8",
+     "https://aasthatv.akamaized.net/hls/live/2034701/aasthatv/master.m3u8"
+   ], web:"https://www.aasthatv.com"},
   {id:"sanskar",        name:"Sanskar",          cat:"Hindi",    genre:"Religious",    color:"#993300",
-   streams:["https://sanskar.akamaized.net/hls/live/2034702/sanskar/master.m3u8"], web:"https://www.sanskartv.in"},
+   streams:[
+     "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
+     "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
+     "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8",
+     "https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8",
+     "https://sanskar.akamaized.net/hls/live/2034702/sanskar/master.m3u8"
+   ], web:"https://www.sanskartv.in"},
   {id:"shubh-tv",       name:"Shubh TV",         cat:"Hindi",    genre:"Religious",    color:"#cc6600",
-   streams:["https://shubhtv.akamaized.net/hls/live/2034703/shubhtv/master.m3u8"], web:"https://www.shubhtv.com"},
+   streams:[
+     "https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8",
+     "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+     "https://stream.galaxyott.live/live/subintv/index.m3u8",
+     "https://shubhtv.akamaized.net/hls/live/2034703/shubhtv/master.m3u8"
+   ], web:"https://www.shubhtv.com"},
 
   // ═══ KIDS ═══
   {id:"pogo",           name:"POGO",             cat:"Hindi",    genre:"Kids",         color:"#0066ff",
-   streams:["https://pogohd-jiotv.akamaized.net/hls/live/2014337/pogohd/master.m3u8"], web:"https://www.pogo.tv"},
+   streams:[
+     "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
+     "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8",
+     "https://pogohd-jiotv.akamaized.net/hls/live/2014337/pogohd/master.m3u8"
+   ], web:"https://www.pogo.tv"},
   {id:"cartoon-network",name:"Cartoon Network",  cat:"Hindi",    genre:"Kids",         color:"#0066ff",
-   streams:["https://cnhd-jiotv.akamaized.net/hls/live/2014337/cartoonnetwork/master.m3u8"], web:"https://www.cartoonnetworkindia.com"},
+   streams:[
+     "https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8",
+     "https://cnhd-jiotv.akamaized.net/hls/live/2014337/cartoonnetwork/master.m3u8"
+   ], web:"https://www.cartoonnetworkindia.com"},
   {id:"nick-india",     name:"Nick India",       cat:"Hindi",    genre:"Kids",         color:"#ff6600",
-   streams:["https://nickindia-jiotv.akamaized.net/hls/live/2014337/nickindia/master.m3u8"], web:"https://www.nickindia.com"},
+   streams:[
+     "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+     "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+     "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+     "https://nickindia-jiotv.akamaized.net/hls/live/2014337/nickindia/master.m3u8"
+   ], web:"https://www.nickindia.com"},
   {id:"disney-india",   name:"Disney Channel",   cat:"Hindi",    genre:"Kids",         color:"#0099cc",
-   streams:["https://disneyindia-jiotv.akamaized.net/hls/live/2014337/disney/master.m3u8"], web:"https://www.disney.in"}
+   streams:[
+     "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
+     "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+     "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
+     "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8",
+     "https://disneyindia-jiotv.akamaized.net/hls/live/2014337/disney/master.m3u8"
+   ], web:"https://www.disney.in"}
 ];
 
 /* ─── Logo URL sources (TV Logos GitHub CDN) ─── */
