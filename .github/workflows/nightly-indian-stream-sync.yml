@@ -99,5 +99,12 @@ jobs:
           DEAD="${{ steps.patch.outputs.dead }}"
           DATE=$(date +'%Y-%m-%d')
           git commit -m "chore: indian stream sync ${DATE} - ${UPDATED} updated, ${KEPT} unchanged, ${DEAD} dead"
-          git push
+          # Try push; if rejected (e.g. on a re-run where HEAD is behind remote main),
+          # fetch + rebase and retry. Handles both fresh dispatch and re-run cases.
+          if ! git push origin HEAD:main; then
+            echo "Push rejected (likely a re-run on stale commit). Rebasing onto origin/main..."
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
           echo "Pushed updated stream URLs for indian-tv.html"
