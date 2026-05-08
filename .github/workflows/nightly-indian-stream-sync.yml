@@ -1,1 +1,105 @@
+name: Nightly Indian Stream Sync
 
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 3 AM UTC daily — offset 1 hour from Libnan TV's 2 AM run
+  workflow_dispatch:        # manual trigger from Actions tab
+    inputs:
+      validate_streams:
+        description: 'HEAD-check stream URLs before applying (slower, recommended)'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+# Separate concurrency group from Libnan TV — they NEVER block each other
+concurrency:
+  group: indian-stream-sync
+  cancel-in-progress: true
+
+env:
+  HTML_FILE: indian-tv.html
+  STREAMS_API: https://iptv-org.github.io/api/streams.json
+  CHANNELS_API: https://iptv-org.github.io/api/channels.json
+  MIN_STREAM_BYTES: "10000"
+  REPORT_FILE: INDIAN_STREAMS_REPORT.md
+
+jobs:
+  sync-streams:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ─────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────────────────
+      - name: Fetch iptv-org APIs
+        run: |
+          echo "::group::Fetching streams.json"
+          curl -fsSL --max-time 90 --retry 4 --retry-delay 5 --retry-all-errors \
+            "${{ env.STREAMS_API }}" -o streams.json
+          STREAMS_SIZE=$(wc -c < streams.json)
+          echo "streams.json: ${STREAMS_SIZE} bytes"
+          [ "$STREAMS_SIZE" -lt "${{ env.MIN_STREAM_BYTES }}" ] && { echo "ERROR: streams.json too small"; exit 1; } || true
+          echo "::endgroup::"
+          echo "::group::Fetching channels.json"
+          curl -fsSL --max-time 90 --retry 4 --retry-delay 5 --retry-all-errors \
+            "${{ env.CHANNELS_API }}" -o channels.json
+          CHANNELS_SIZE=$(wc -c < channels.json)
+          echo "channels.json: ${CHANNELS_SIZE} bytes"
+          [ "$CHANNELS_SIZE" -lt "${{ env.MIN_STREAM_BYTES }}" ] && { echo "ERROR: channels.json too small"; exit 1; } || true
+          echo "::endgroup::"
+
+      # ─────────────────────────────────────────
+      - name: Patch stream URLs into Indian TV app
+        id: patch
+        env:
+          VALIDATE_STREAMS: ${{ github.event.inputs.validate_streams || 'true' }}
+        run: |
+          python3 scripts/sync_indian_streams.py
+
+      # ─────────────────────────────────────────
+      - name: Append summary to GitHub Actions output
+        if: always()
+        run: |
+          if [ -f "${{ env.REPORT_FILE }}" ]; then
+            echo "## Indian TV Stream Sync Report" >> $GITHUB_STEP_SUMMARY
+            cat "${{ env.REPORT_FILE }}" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      # ─────────────────────────────────────────
+      - name: Sanity check output file
+        run: |
+          COUNT=$(grep -c 'streams\s*:\s*\[' "${{ env.HTML_FILE }}" 2>/dev/null || echo 0)
+          echo "streams arrays in HTML: $COUNT"
+          if [ "$COUNT" -lt 50 ]; then
+            echo "WARNING: Low stream array count - check patch step output"
+          fi
+
+      # ─────────────────────────────────────────
+      - name: Clean up temp files
+        if: always()
+        run: rm -f streams.json channels.json
+
+      # ─────────────────────────────────────────
+      - name: Commit and push
+        run: |
+          git config user.name  "Indian Stream Sync Bot"
+          git config user.email "indian-bot@indiantv.local"
+          git add "${{ env.HTML_FILE }}" "${{ env.REPORT_FILE }}" 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No stream changes detected - skipping commit"
+            exit 0
+          fi
+          UPDATED="${{ steps.patch.outputs.updated }}"
+          KEPT="${{ steps.patch.outputs.kept }}"
+          DEAD="${{ steps.patch.outputs.dead }}"
+          DATE=$(date +'%Y-%m-%d')
+          git commit -m "chore: indian stream sync ${DATE} — ${UPDATED} updated, ${KEPT} unchanged, ${DEAD} dead"
+          git push
+          echo "Pushed updated stream URLs for indian-tv.html"
