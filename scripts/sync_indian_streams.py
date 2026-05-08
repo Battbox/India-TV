@@ -206,67 +206,97 @@ def build_indexes(streams):
 
 
 def find_streams_for(our_id, by_id, by_title):
-    """Try exact ID, alternates, then fuzzy title match.
+    """Combine ALL three strategies (exact + alts + fuzzy) into one candidate pool.
+    HEAD-validation later will filter out the dead ones. Strategies that return
+    a single dead URL no longer doom the channel — fuzzy fallback still runs.
     Returns (urls, strategy_label).
     """
     primary, alts, keywords = CHANNEL_MAP[our_id]
 
+    pool = []
+    seen = set()
+    found_strategies = []
+
+    def _add(urls, label):
+        added = False
+        for u in urls:
+            if u not in seen:
+                seen.add(u)
+                pool.append(u)
+                added = True
+        if added:
+            found_strategies.append(label)
+
     # Strategy 1: exact ID
     if primary in by_id:
-        return by_id[primary], f"exact:{primary}"
+        _add(by_id[primary], f"exact:{primary}")
 
     # Strategy 2: alternate IDs
     for alt in alts:
         if alt in by_id:
-            return by_id[alt], f"alt:{alt}"
+            _add(by_id[alt], f"alt:{alt}")
 
     # Strategy 3: fuzzy title via keywords
     if keywords:
-        # Score each title against any keyword
         candidates = []
         for title, urls in by_title.items():
             best = 0
             for kw in keywords:
                 if kw in title:
-                    best = max(best, 1.0)  # substring hit = perfect
+                    best = max(best, 1.0)
                 else:
                     best = max(best, SequenceMatcher(None, kw, title).ratio())
-            if best >= 0.7:
+            if best >= 0.72:
                 candidates.append((best, urls, title))
         if candidates:
             candidates.sort(reverse=True)
-            # Take URLs from top-2 matches, deduplicated
-            picked = []
-            seen = set()
-            for _, urls, _ in candidates[:2]:
-                for u in urls:
-                    if u not in seen:
-                        seen.add(u)
-                        picked.append(u)
-            return picked, "fuzzy-title"
+            # Take URLs from top-3 fuzzy matches
+            for _, urls, _ in candidates[:3]:
+                _add(urls, "fuzzy-title")
 
-    return [], "no-match"
+    label = "+".join(found_strategies) if found_strategies else "no-match"
+    return pool, label
 
 
 def head_check_one(url):
-    """HEAD-check one URL. Returns url if alive, None otherwise."""
+    """HEAD-check one URL. Returns url if alive, None otherwise.
+
+    Uses a real browser User-Agent and HLS-friendly headers — many CDNs (Akamai,
+    CloudFront, Edgecast) return 403 to 'Python-urllib/3.x' but accept browsers.
+    Some also require Referer or Origin to match the playing page.
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Origin": "https://example.com",
+        "Referer": "https://example.com/",
+    }
     try:
-        req = urllib.request.Request(url, method="HEAD")
-        req.add_header("User-Agent", "Mozilla/5.0")
+        req = urllib.request.Request(url, method="HEAD", headers=headers)
         with urllib.request.urlopen(req, timeout=HEAD_TIMEOUT) as r:
             if 200 <= r.status < 400:
                 return url
     except Exception:
-        try:
-            # Some CDNs reject HEAD; try GET with Range
-            req = urllib.request.Request(url)
-            req.add_header("User-Agent", "Mozilla/5.0")
-            req.add_header("Range", "bytes=0-1023")
-            with urllib.request.urlopen(req, timeout=HEAD_TIMEOUT) as r:
-                if 200 <= r.status < 400:
-                    return url
-        except Exception:
-            return None
+        # Fall through to GET-Range fallback
+        pass
+    try:
+        # Some CDNs reject HEAD; try GET with small Range header
+        req_headers = dict(headers)
+        req_headers["Range"] = "bytes=0-2047"
+        req = urllib.request.Request(url, headers=req_headers)
+        with urllib.request.urlopen(req, timeout=HEAD_TIMEOUT) as r:
+            if 200 <= r.status < 400:
+                # For .m3u8: also peek at content to confirm it looks like a manifest
+                if url.lower().endswith(".m3u8"):
+                    chunk = r.read(2048)
+                    if b"#EXTM3U" in chunk or b"#EXT-X-" in chunk:
+                        return url
+                    return None
+                return url
+    except Exception:
+        return None
     return None
 
 
@@ -328,8 +358,9 @@ def main():
         api_urls, strategy = find_streams_for(our_id, by_id, by_title)
         api_count = len(api_urls)
 
-        # Take some extra so HEAD-validation still leaves enough
-        api_urls = api_urls[:MAX_NEW_FROM_API * 2]
+        # Take more candidates so HEAD-validation still leaves enough
+        # (we now combine 3 strategies, so the pool can be bigger)
+        api_urls = api_urls[:MAX_NEW_FROM_API * 3]
 
         if VALIDATE and api_urls:
             print(f"  [{our_id:<22}] HEAD-checking {len(api_urls)} URLs ({strategy})...", flush=True)
