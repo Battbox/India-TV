@@ -58,13 +58,9 @@ CHANNEL_MAP = {
     "zee-tv":          ("ZeeTV.in",          ["ZeeTVHD.in"],                 ["zee tv"]),
     "sab-tv":          ("SonySAB.in",        ["SABTV.in"],                   ["sab tv", "sony sab"]),
     "colors-tv":       ("Colors.in",         ["ColorsHD.in"],                ["colors tv", "colors hd"]),
-    "star-bharat":     ("StarBharat.in",     [],                             ["star bharat"]),
     "and-tv":          ("AndTV.in",          ["AndTVHD.in"],                 ["&tv", "and tv"]),
 
     # ═══ HINDI — Movies ═══
-    "zee-cinema":      ("ZeeCinema.in",      ["ZeeCinemaHD.in"],             ["zee cinema"]),
-    "and-pictures":    ("AndPictures.in",    [],                             ["&pictures", "and pictures"]),
-    "sony-max":        ("SonyMAX.in",        ["SonyMAXHD.in"],               ["sony max"]),
     "b4u-movies":      ("B4UMovies.in",      [],                             ["b4u movies"]),
     "zee-bollywood":   ("ZeeBollywood.in",   [],                             ["zee bollywood"]),
 
@@ -78,9 +74,7 @@ CHANNEL_MAP = {
     "thanthi-tv":      ("ThanthiTV.in",      [],                             ["thanthi tv"]),
     "polimer-news":    ("PolimerNews.in",    ["Polimer.in"],                 ["polimer news", "polimer"]),
     "sun-tv":          ("SunTV.in",          ["SunTVHD.in"],                 ["sun tv"]),
-    "vijay-tv":        ("StarVijay.in",      ["VijayTV.in"],                 ["star vijay", "vijay tv"]),
     "zee-tamil":       ("ZeeTamil.in",       ["ZeeTamilHD.in"],              ["zee tamil"]),
-    "colors-tamil":    ("ColorsTamil.in",    ["ColorsTamilHD.in"],           ["colors tamil"]),
     "ktv":             ("KTV.in",            [],                             ["k tv", "ktv tamil"]),
     "sun-music":       ("SunMusic.in",       [],                             ["sun music"]),
     "raj-tv":          ("RajTV.in",          [],                             ["raj tv"]),
@@ -91,7 +85,6 @@ CHANNEL_MAP = {
     "ntv-telugu":      ("NTVTelugu.in",      ["NTV.in"],                     ["ntv telugu"]),
     "gemini-tv":       ("GeminiTV.in",       [],                             ["gemini tv"]),
     "etv-telugu":      ("ETVTelugu.in",      ["ETV.in"],                     ["etv telugu"]),
-    "star-maa":        ("StarMaa.in",        ["MaaTV.in"],                   ["star maa", "maa tv"]),
     "zee-telugu":      ("ZeeTelugu.in",      ["ZeeTeluguHD.in"],             ["zee telugu"]),
     "sakshi-tv":       ("SakshiTV.in",       [],                             ["sakshi tv"]),
 
@@ -108,21 +101,15 @@ CHANNEL_MAP = {
     "tv9-kannada":     ("TV9Kannada.in",     [],                             ["tv9 kannada"]),
     "public-tv":       ("PublicTV.in",       [],                             ["public tv"]),
     "udaya-tv":        ("UdayaTV.in",        [],                             ["udaya tv"]),
-    "colors-kannada":  ("ColorsKannada.in",  ["ColorsKannadaHD.in"],         ["colors kannada"]),
     "zee-kannada":     ("ZeeKannada.in",     [],                             ["zee kannada"]),
-    "star-suvarna":    ("StarSuvarna.in",    ["AsianetSuvarna.in"],          ["star suvarna", "asianet suvarna"]),
-
     # ═══ BENGALI ═══
     "zee-bangla":      ("ZeeBangla.in",      [],                             ["zee bangla"]),
-    "star-jalsha":     ("StarJalsha.in",     [],                             ["star jalsha"]),
     "colors-bangla":   ("ColorsBangla.in",   [],                             ["colors bangla"]),
     "sun-bangla":      ("SunBangla.in",      [],                             ["sun bangla"]),
     "abp-ananda":      ("ABPAnanda.in",      [],                             ["abp ananda"]),
 
     # ═══ MARATHI ═══
     "zee-marathi":     ("ZeeMarathi.in",     [],                             ["zee marathi"]),
-    "colors-marathi":  ("ColorsMarathi.in",  [],                             ["colors marathi"]),
-    "star-pravah":     ("StarPravah.in",     [],                             ["star pravah"]),
     "abp-majha":       ("ABPMajha.in",       [],                             ["abp majha"]),
     "tv9-marathi":     ("TV9Marathi.in",     [],                             ["tv9 marathi"]),
 
