@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-13 06:33 UTC
+**Generated:** 2026-05-14 06:32 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 66
+- **Updated:** 65
 - **Kept old (no fresh streams found):** 1
-- **Completely dead (no streams anywhere):** 4
+- **Completely dead (no streams anywhere):** 5
 
 ## Per-channel detail
 
@@ -21,7 +21,7 @@
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-tv | ALL_DEAD | exact:ZeeTV.in+fuzzy-title | 3 | 0 | 2 | 2 |
 | sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 3 | 1 | 3 | 3 |
-| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 1 | 4 | 4 |
+| colors-tv | ALL_DEAD | exact:Colors.in+fuzzy-title | 5 | 0 | 4 | 4 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 3 | 4 | 4 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
@@ -34,7 +34,7 @@
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 3 | 3 |
@@ -44,8 +44,8 @@
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 2 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
-| manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 5 | 2 | 4 | 4 |
-| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 1 | 3 | 3 |
+| manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
+| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 3 | 3 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 3 | 3 | 4 | 4 |
@@ -65,7 +65,7 @@
 | pitaara | UPDATED | alt:Pitaara.in | 2 | 1 | 2 | 2 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 3 | 4 | 4 |
-| ndtv-247 | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 1 | 3 | 3 |
+| ndtv-247 | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 3 | 3 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 5 | 5 | 6 | 6 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | mirror-now | UPDATED | exact:MirrorNow.in | 3 | 2 | 3 | 3 |
@@ -81,7 +81,7 @@
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
 | cartoon-network | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
-| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 4 | 5 | 5 |
+| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 5 | 5 | 6 |
 
 ## Legend
 
