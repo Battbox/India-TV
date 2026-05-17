@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-16 06:02 UTC
+**Generated:** 2026-05-17 06:31 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 65
@@ -20,12 +20,12 @@
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
-| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 4 | 2 | 4 | 5 |
+| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
+| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 4 | 2 | 5 | 5 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
-| b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 3 | 4 | 5 |
-| zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 3 | 3 | 4 |
-| 9xm | UPDATED | exact:9XM.in | 3 | 1 | 2 | 2 |
+| b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 3 | 5 | 5 |
+| zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
+| 9xm | UPDATED | exact:9XM.in | 3 | 2 | 2 | 3 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
@@ -80,7 +80,7 @@
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
 | cartoon-network | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 4 | 5 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 2 | 6 | 6 |
 
 ## Legend
