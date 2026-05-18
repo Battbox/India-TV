@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-17 06:31 UTC
+**Generated:** 2026-05-18 07:05 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 65
@@ -13,7 +13,7 @@
 |---|---|---|---|---|---|---|
 | ndtv-india | UPDATED | exact:NDTVIndia.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 6 | 5 | 5 | 5 |
-| abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 5 | 2 | 4 | 4 |
+| abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 5 | 1 | 4 | 4 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
@@ -25,7 +25,7 @@
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 3 | 5 | 5 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| 9xm | UPDATED | exact:9XM.in | 3 | 2 | 2 | 3 |
+| 9xm | UPDATED | exact:9XM.in | 3 | 1 | 3 | 3 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
