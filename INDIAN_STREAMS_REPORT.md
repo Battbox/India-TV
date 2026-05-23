@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-22 06:58 UTC
+**Generated:** 2026-05-23 06:21 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 64
+- **Updated:** 65
 - **Kept old (no fresh streams found):** 1
-- **Completely dead (no streams anywhere):** 6
+- **Completely dead (no streams anywhere):** 5
 
 ## Per-channel detail
 
@@ -25,7 +25,7 @@
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 3 | 5 | 5 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| 9xm | ALL_DEAD | exact:9XM.in | 3 | 0 | 3 | 3 |
+| 9xm | UPDATED | exact:9XM.in | 3 | 1 | 3 | 3 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
@@ -34,7 +34,7 @@
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 1 | 4 | 4 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 4 | 4 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 3 | 3 |
@@ -67,7 +67,7 @@
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 2 | 4 | 4 |
 | ndtv-247 | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 1 | 3 | 3 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
-| republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
+| republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | mirror-now | UPDATED | exact:MirrorNow.in | 3 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in | 8 | 7 | 8 | 8 |
 | cnn-news18 | ALL_DEAD | fuzzy-title+fuzzy-title | 3 | 0 | 1 | 1 |
