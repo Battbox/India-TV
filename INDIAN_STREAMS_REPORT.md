@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-28 07:01 UTC
+**Generated:** 2026-05-29 07:02 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -45,7 +45,7 @@
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
-| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 1 | 3 | 3 |
+| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 3 | 3 |
 | asianet | ALL_DEAD | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 0 | 2 | 2 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 3 | 3 | 4 | 4 |
@@ -56,7 +56,7 @@
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 7 | 7 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title | 4 | 0 | 2 | 2 |
-| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 5 | 5 |
+| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 5 | 5 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | abp-majha | UPDATED | exact:ABPMajha.in+fuzzy-title | 3 | 1 | 2 | 2 |
