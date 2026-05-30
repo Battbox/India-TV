@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-29 07:02 UTC
+**Generated:** 2026-05-30 06:30 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -34,7 +34,7 @@
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 6 | 6 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
@@ -56,7 +56,7 @@
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 7 | 7 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title | 4 | 0 | 2 | 2 |
-| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 5 | 5 |
+| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 5 | 5 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | abp-majha | UPDATED | exact:ABPMajha.in+fuzzy-title | 3 | 1 | 2 | 2 |
