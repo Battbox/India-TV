@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-05-30 06:30 UTC
+**Generated:** 2026-05-31 07:05 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -67,7 +67,7 @@
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 2 | 4 | 4 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 6 | 5 | 7 | 7 |
-| republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
+| republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 5 | 5 | 6 | 6 |
 | mirror-now | UPDATED | exact:MirrorNow.in | 3 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in | 9 | 7 | 8 | 8 |
 | cnn-news18 | ALL_DEAD | fuzzy-title+fuzzy-title | 3 | 0 | 1 | 1 |
@@ -78,9 +78,9 @@
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 7 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
+| pogo | UPDATED | fuzzy-title | 2 | 1 | 3 | 3 |
 | cartoon-network | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 4 | 8 | 8 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 7 | 7 |
 
 ## Legend
