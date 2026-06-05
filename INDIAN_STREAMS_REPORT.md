@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-06-04 07:30 UTC
+**Generated:** 2026-06-05 07:14 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -34,7 +34,7 @@
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 7 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 7 | 7 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
@@ -45,7 +45,7 @@
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
-| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 1 | 3 | 3 |
+| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 3 | 3 |
 | asianet | ALL_DEAD | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 0 | 2 | 2 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 3 | 3 | 4 | 4 |
@@ -74,7 +74,7 @@
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 4 | 1 | 2 | 2 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 4 | 2 | 4 | 4 |
 | dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 4 | 2 | 4 | 4 |
-| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 5 | 3 | 4 | 5 |
+| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 5 | 3 | 5 | 5 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 7 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
