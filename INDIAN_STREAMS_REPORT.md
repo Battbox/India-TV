@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-06-07 07:12 UTC
+**Generated:** 2026-06-08 08:16 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -20,17 +20,17 @@
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title | 5 | 3 | 4 | 4 |
 | zee-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
+| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 5 | 5 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 4 | 1 | 5 | 5 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 4 | 1 | 5 | 5 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
-| 9xm | UPDATED | exact:9XM.in | 4 | 3 | 4 | 4 |
+| 9xm | UPDATED | exact:9XM.in | 4 | 2 | 4 | 4 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 5 | 6 | 6 |
+| polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 2 | 6 | 6 |
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
@@ -60,7 +60,7 @@
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | abp-majha | UPDATED | exact:ABPMajha.in+fuzzy-title | 3 | 1 | 2 | 2 |
-| tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
+| tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 6 | 4 | 5 | 5 |
 | pitaara | UPDATED | alt:Pitaara.in | 2 | 1 | 2 | 2 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
@@ -72,8 +72,8 @@
 | wion | UPDATED | exact:WION.in | 9 | 7 | 8 | 8 |
 | cnn-news18 | ALL_DEAD | fuzzy-title+fuzzy-title | 3 | 0 | 1 | 1 |
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 4 | 1 | 2 | 2 |
-| dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 5 | 3 | 5 | 5 |
-| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 5 | 3 | 5 | 5 |
+| dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 6 | 4 | 5 | 6 |
+| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 6 | 4 | 5 | 6 |
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 6 | 4 | 6 | 6 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 7 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
