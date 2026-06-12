@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-06-11 07:35 UTC
+**Generated:** 2026-06-12 07:29 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 66
+- **Updated:** 65
 - **Kept old (no fresh streams found):** 1
-- **Completely dead (no streams anywhere):** 4
+- **Completely dead (no streams anywhere):** 5
 
 ## Per-channel detail
 
@@ -20,14 +20,14 @@
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title | 5 | 3 | 4 | 4 |
 | zee-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 5 | 5 |
+| sab-tv | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 5 | 5 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 4 | 1 | 5 | 5 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 4 | 1 | 5 | 5 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 4 | 4 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 1 | 3 | 3 |
+| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
@@ -72,16 +72,16 @@
 | wion | UPDATED | exact:WION.in | 9 | 7 | 8 | 8 |
 | cnn-news18 | ALL_DEAD | fuzzy-title+fuzzy-title | 3 | 0 | 1 | 1 |
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 4 | 1 | 2 | 2 |
-| dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 6 | 4 | 6 | 6 |
-| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 6 | 4 | 6 | 6 |
-| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 6 | 4 | 6 | 6 |
-| aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 7 |
+| dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 6 | 3 | 6 | 6 |
+| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 6 | 3 | 6 | 6 |
+| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 6 | 2 | 6 | 6 |
+| aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title+fuzzy-title | 9 | 7 | 7 | 8 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
 | cartoon-network | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 
 ## Legend
 
