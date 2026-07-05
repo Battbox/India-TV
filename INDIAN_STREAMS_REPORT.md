@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-04 06:26 UTC
+**Generated:** 2026-07-05 06:47 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 66
+- **Updated:** 65
 - **Kept old (no fresh streams found):** 1
-- **Completely dead (no streams anywhere):** 4
+- **Completely dead (no streams anywhere):** 5
 
 ## Per-channel detail
 
@@ -27,19 +27,19 @@
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
 | 9xm | UPDATED | exact:9XM.in | 5 | 2 | 5 | 5 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
+| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 1 | 3 | 3 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
-| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
+| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 8 | 8 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
-| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 5 |
+| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title | 5 | 5 | 6 | 6 |
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 2 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
@@ -52,7 +52,7 @@
 | flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 5 | 5 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 5 | 5 |
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 5 | 2 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title | 5 | 0 | 3 | 3 |
@@ -77,9 +77,9 @@
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 8 | 2 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
-| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
+| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
-| cartoon-network | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
+| cartoon-network | ALL_DEAD | fuzzy-title | 1 | 0 | 2 | 2 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
 
