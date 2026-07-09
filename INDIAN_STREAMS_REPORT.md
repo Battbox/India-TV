@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-08 05:57 UTC
+**Generated:** 2026-07-09 06:50 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 65
@@ -30,11 +30,11 @@
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
-| polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
-| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
+| polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
+| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 6 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
-| ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
+| ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 5 | 5 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 8 | 8 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
@@ -49,10 +49,10 @@
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 1 | 3 | 3 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 3 | 3 | 4 | 4 |
-| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 2 | 5 | 5 |
+| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 5 | 5 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 6 |
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 2 | 2 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 5 | 2 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title | 5 | 0 | 3 | 3 |
@@ -63,7 +63,7 @@
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 6 | 4 | 5 | 5 |
 | pitaara | UPDATED | alt:Pitaara.in | 3 | 1 | 3 | 3 |
-| chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
+| chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 4 | 3 | 5 | 5 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
@@ -74,14 +74,14 @@
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 4 | 1 | 2 | 2 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 6 | 2 | 6 | 6 |
 | dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 7 | 3 | 7 | 7 |
-| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 6 | 3 | 8 | 8 |
+| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 6 | 2 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
 | cartoon-network | ALL_DEAD | fuzzy-title | 1 | 0 | 2 | 2 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
 
 ## Legend
 
