@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-12 06:03 UTC
+**Generated:** 2026-07-13 06:23 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 65
@@ -39,13 +39,13 @@
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title | 6 | 4 | 5 | 5 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
-| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
+| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 5 | 5 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title | 5 | 5 | 6 | 6 |
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 2 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 5 | 3 | 4 | 4 |
-| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 3 | 3 |
+| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 1 | 3 | 3 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 1 | 3 | 3 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 3 | 3 | 4 | 4 |
@@ -81,7 +81,7 @@
 | pogo | UPDATED | fuzzy-title | 2 | 2 | 3 | 3 |
 | cartoon-network | ALL_DEAD | fuzzy-title | 1 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 14 | 7 | 8 | 8 |
 
 ## Legend
 
