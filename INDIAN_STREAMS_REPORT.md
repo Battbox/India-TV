@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-22 05:56 UTC
+**Generated:** 2026-07-23 06:00 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 65
+- **Updated:** 64
 - **Kept old (no fresh streams found):** 2
-- **Completely dead (no streams anywhere):** 4
+- **Completely dead (no streams anywhere):** 5
 
 ## Per-channel detail
 
@@ -21,17 +21,17 @@
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 3 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | sab-tv | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 6 | 6 |
-| colors-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 6 | 8 |
+| colors-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 5 | 2 | 7 | 7 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 5 | 5 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
+| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 4 |
 | sun-news | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 3 | 3 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 4 | 3 | 6 | 6 |
-| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
+| sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
@@ -51,7 +51,7 @@
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 5 | 5 | 6 | 6 |
 | flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
-| public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 8 |
+| public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
@@ -77,11 +77,11 @@
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 5 | 2 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | sanskar | ALL_DEAD | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 0 | 5 | 5 |
-| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
+| shubh-tv | ALL_DEAD | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 0 | 4 | 4 |
 | pogo | UPDATED | fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 16 | 7 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 18 | 7 | 8 | 8 |
 
 ## Legend
 
