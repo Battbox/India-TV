@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-24 05:57 UTC
+**Generated:** 2026-07-25 05:50 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 64
@@ -21,7 +21,7 @@
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 3 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | sab-tv | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 6 | 6 |
-| colors-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
+| colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 3 | 2 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 5 | 2 | 7 | 7 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
@@ -78,7 +78,7 @@
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | sanskar | ALL_DEAD | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 0 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| pogo | UPDATED | fuzzy-title+fuzzy-title | 4 | 4 | 5 | 6 |
+| pogo | UPDATED | fuzzy-title+fuzzy-title | 4 | 3 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 18 | 7 | 8 | 8 |
