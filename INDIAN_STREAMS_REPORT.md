@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-25 05:50 UTC
+**Generated:** 2026-07-26 06:10 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 64
@@ -17,7 +17,7 @@
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 4 | 3 | 6 | 6 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
-| republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 9 | 5 | 8 | 8 |
+| republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 3 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | sab-tv | ALL_DEAD | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 0 | 6 | 6 |
@@ -50,9 +50,9 @@
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 5 | 5 | 6 | 6 |
 | flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
-| tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
+| tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 5 | 5 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 0 | 4 | 4 |
@@ -65,7 +65,7 @@
 | pitaara | UPDATED | alt:Pitaara.in | 6 | 3 | 5 | 5 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 3 | 5 | 5 |
-| ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 2 | 4 | 4 |
+| ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 5 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 7 | 7 |
 | mirror-now | UPDATED | exact:MirrorNow.in | 2 | 2 | 3 | 3 |
@@ -78,7 +78,7 @@
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | sanskar | ALL_DEAD | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 0 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
-| pogo | UPDATED | fuzzy-title+fuzzy-title | 4 | 3 | 6 | 6 |
+| pogo | UPDATED | fuzzy-title+fuzzy-title | 4 | 4 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 18 | 7 | 8 | 8 |
