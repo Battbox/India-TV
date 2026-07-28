@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-07-27 06:37 UTC
+**Generated:** 2026-07-28 05:52 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 64
@@ -39,7 +39,7 @@
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 5 | 5 | 6 | 6 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 5 | 5 | 6 | 6 |
-| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
+| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 6 | 6 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title | 5 | 5 | 6 | 6 |
 | zee-telugu | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
@@ -52,11 +52,11 @@
 | flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
 | zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 0 | 4 | 4 |
-| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
+| sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 4 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | abp-majha | UPDATED | exact:ABPMajha.in | 1 | 1 | 2 | 2 |
@@ -81,7 +81,7 @@
 | pogo | UPDATED | fuzzy-title+fuzzy-title | 4 | 4 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 18 | 7 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 9 | 6 | 8 | 8 |
 
 ## Legend
 
