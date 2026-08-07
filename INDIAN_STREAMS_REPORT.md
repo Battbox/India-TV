@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-08-06 05:54 UTC
+**Generated:** 2026-08-07 05:00 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -35,9 +35,9 @@
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
-| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
+| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 5 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
-| abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 6 | 7 |
+| abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 7 | 7 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
 | gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title | 5 | 5 | 6 | 6 |
@@ -53,15 +53,15 @@
 | tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
-| zee-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 3 |
+| zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 4 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 0 | 4 | 4 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
-| abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 6 |
+| abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
 | abp-majha | UPDATED | exact:ABPMajha.in | 1 | 1 | 2 | 2 |
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
-| ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 6 | 7 | 7 |
+| ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 7 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 6 | 3 | 5 | 5 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 3 | 5 | 5 |
