@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-08-07 05:00 UTC
+**Generated:** 2026-08-08 04:16 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -21,7 +21,7 @@
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 6 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 1 | 7 | 7 |
-| colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
+| colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 5 | 4 | 8 | 8 |
 | zee-bollywood | UPDATED | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 3 | 1 | 4 | 4 |
@@ -34,8 +34,8 @@
 | sun-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
 | zee-tamil | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
-| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
-| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 4 | 5 |
+| sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
+| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 7 | 7 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
@@ -52,16 +52,16 @@
 | flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | tv9-kannada | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
-| zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 3 | 2 | 3 | 4 |
-| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
+| zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
+| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 0 | 4 | 4 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
-| zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 1 | 2 | 2 |
+| zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title | 3 | 2 | 2 | 3 |
 | abp-majha | UPDATED | exact:ABPMajha.in | 1 | 1 | 2 | 2 |
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
-| ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 7 | 8 |
+| ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 6 | 3 | 5 | 5 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 3 | 3 | 5 | 5 |
@@ -71,7 +71,7 @@
 | mirror-now | UPDATED | exact:MirrorNow.in | 2 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in | 10 | 7 | 8 | 8 |
 | cnn-news18 | ALL_DEAD | fuzzy-title | 1 | 0 | 1 | 1 |
-| times-now | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
+| times-now | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 5 | 2 | 6 | 6 |
 | dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 6 | 3 | 7 | 7 |
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 5 | 2 | 8 | 8 |
