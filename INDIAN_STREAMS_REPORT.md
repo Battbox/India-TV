@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-08-15 03:42 UTC
+**Generated:** 2026-08-16 03:51 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -20,7 +20,7 @@
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | zee-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
-| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
+| sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 4 | 4 | 8 | 8 |
@@ -71,7 +71,7 @@
 | mirror-now | UPDATED | exact:MirrorNow.in | 2 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in+fuzzy-title | 9 | 7 | 8 | 8 |
 | cnn-news18 | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| times-now | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 2 | 8 | 8 |
+| times-now | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 3 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 3 | 2 | 6 | 6 |
 | dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 7 | 7 | 8 | 8 |
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 4 | 3 | 8 | 8 |
