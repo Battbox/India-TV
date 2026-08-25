@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-08-24 04:00 UTC
+**Generated:** 2026-08-25 03:54 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 65
@@ -25,7 +25,7 @@
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title | 5 | 3 | 8 | 8 |
 | zee-bollywood | ALL_DEAD | exact:ZeeBollywood.in+fuzzy-title+fuzzy-title | 4 | 0 | 5 | 5 |
-| 9xm | UPDATED | exact:9XM.in | 6 | 2 | 7 | 7 |
+| 9xm | UPDATED | exact:9XM.in | 6 | 3 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title | 7 | 3 | 7 | 7 |
 | sun-news | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 5 |
@@ -47,12 +47,12 @@
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 6 | 5 | 7 | 7 |
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 4 | 4 |
 | asianet | ALL_DEAD | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 0 | 4 | 4 |
-| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 4 | 4 |
+| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 4 | 5 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 6 | 5 | 7 | 7 |
-| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
+| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 6 | 4 | 6 | 6 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 5 | 5 | 7 | 7 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 7 |
 | zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 4 | 4 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 3 | 0 | 4 | 4 |
@@ -81,7 +81,7 @@
 | pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
-| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
+| disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 
 ## Legend
 
