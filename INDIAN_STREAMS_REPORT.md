@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-01 08:25 UTC
+**Generated:** 2026-09-02 07:45 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 67
@@ -43,13 +43,13 @@
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title | 5 | 5 | 6 | 6 |
 | zee-telugu | UPDATED | fuzzy-title | 1 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 7 | 7 |
-| asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 4 | 4 | 5 |
+| asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 5 | 4 | 5 | 5 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 6 | 5 | 7 | 7 |
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 2 | 2 | 4 | 4 |
-| asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 6 |
-| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 5 | 5 |
+| asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
+| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 6 | 5 | 7 | 7 |
-| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 6 | 4 | 6 | 6 |
+| flowers-tv | UPDATED | exact:FlowersTV.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 5 | 5 | 7 | 7 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 7 | 7 |
@@ -64,7 +64,7 @@
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 5 | 3 | 6 | 6 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 7 | 7 |
-| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 6 | 8 | 8 |
+| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 5 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 3 | 3 | 5 | 5 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
