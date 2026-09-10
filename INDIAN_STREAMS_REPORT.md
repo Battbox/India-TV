@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-09 07:59 UTC
+**Generated:** 2026-09-10 07:59 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -15,7 +15,7 @@
 | aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 7 | 6 | 6 | 6 |
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
-| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
+| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 4 | 8 | 8 |
@@ -48,7 +48,7 @@
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 3 | 3 | 5 | 5 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 5 | 5 |
-| mazhavil | UPDATED | exact:MazhavilManorama.in | 6 | 3 | 7 | 7 |
+| mazhavil | UPDATED | exact:MazhavilManorama.in | 5 | 3 | 7 | 7 |
 | flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
@@ -80,7 +80,7 @@
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 13 | 7 | 8 | 8 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
 
 ## Legend
