@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-13 08:07 UTC
+**Generated:** 2026-09-14 08:40 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 66
@@ -18,7 +18,7 @@
 | news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
-| tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 10 | 4 | 8 | 8 |
+| tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 9 | 4 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
@@ -58,7 +58,7 @@
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in | 1 | 0 | 5 | 5 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 4 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
-| zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 7 |
+| zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title+fuzzy-title | 6 | 5 | 7 | 7 |
 | abp-majha | UPDATED | exact:ABPMajha.in | 1 | 1 | 2 | 2 |
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 10 | 5 | 8 | 8 |
@@ -66,7 +66,7 @@
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 5 | 3 | 7 | 7 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 5 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
-| india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
+| india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
 | mirror-now | UPDATED | exact:MirrorNow.in | 2 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in+fuzzy-title | 11 | 7 | 8 | 8 |
@@ -81,7 +81,7 @@
 | pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
 | cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 8 | 8 |
-| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 11 | 6 | 8 | 8 |
+| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
 
 ## Legend
 
