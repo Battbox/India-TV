@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-20 08:23 UTC
+**Generated:** 2026-09-21 08:40 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 67
-- **Kept old (no fresh streams found):** 2
-- **Completely dead (no streams anywhere):** 2
+- **Kept old (no fresh streams found):** 3
+- **Completely dead (no streams anywhere):** 1
 
 ## Per-channel detail
 
@@ -40,7 +40,7 @@
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 8 | 8 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 6 | 6 |
-| etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
+| etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 2 | 1 | 2 | 2 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
@@ -49,12 +49,12 @@
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 6 | 5 | 8 | 8 |
-| flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
+| flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 6 | 6 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
-| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
+| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | colors-bangla | ALL_DEAD | exact:ColorsBangla.in | 1 | 0 | 5 | 5 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
@@ -79,7 +79,7 @@
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
-| cartoon-network | ALL_DEAD | fuzzy-title | 1 | 0 | 2 | 2 |
+| cartoon-network | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 8 | 8 |
 | disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
 
