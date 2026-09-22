@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-21 08:40 UTC
+**Generated:** 2026-09-22 08:20 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 67
@@ -16,7 +16,7 @@
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
-| zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
+| zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
@@ -25,7 +25,7 @@
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 6 | 6 |
-| 9xm | UPDATED | exact:9XM.in | 5 | 2 | 7 | 7 |
+| 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | sun-news | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 7 | 7 |
@@ -49,7 +49,7 @@
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 6 | 5 | 8 | 8 |
-| flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 6 | 6 |
+| flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 6 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
@@ -71,7 +71,7 @@
 | mirror-now | UPDATED | exact:MirrorNow.in | 2 | 2 | 3 | 3 |
 | wion | UPDATED | exact:WION.in+fuzzy-title | 11 | 7 | 8 | 8 |
 | cnn-news18 | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 9 | 5 | 8 | 8 |
+| times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 4 | 3 | 8 | 8 |
 | dd-national | UPDATED | exact:DDNational.in | 6 | 6 | 8 | 8 |
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 5 | 4 | 8 | 8 |
