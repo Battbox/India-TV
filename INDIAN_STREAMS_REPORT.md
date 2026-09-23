@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-22 08:20 UTC
+**Generated:** 2026-09-23 08:22 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 67
@@ -22,7 +22,7 @@
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
-| and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
+| and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 6 | 6 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
@@ -64,7 +64,7 @@
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 3 | 3 | 6 | 6 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
-| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 6 | 8 | 8 |
+| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 5 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
