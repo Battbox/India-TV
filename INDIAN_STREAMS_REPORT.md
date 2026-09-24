@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-09-23 08:22 UTC
+**Generated:** 2026-09-24 08:13 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 67
@@ -15,7 +15,7 @@
 | aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 7 | 6 | 6 | 6 |
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
-| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
+| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
@@ -23,7 +23,7 @@
 | sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
-| b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
+| b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 2 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 6 | 6 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
