@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-10-11 09:46 UTC
+**Generated:** 2026-10-12 10:19 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 68
@@ -15,16 +15,16 @@
 | aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 7 | 6 | 6 | 6 |
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
-| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
+| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
-| tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 9 | 5 | 8 | 8 |
+| tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title | 3 | 3 | 8 | 8 |
 | sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 4 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 9 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
-| zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 6 | 7 |
+| zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 10 | 6 | 8 | 8 |
@@ -47,7 +47,7 @@
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 3 | 3 | 5 | 5 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
-| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 6 | 6 |
+| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 7 | 6 | 8 | 8 |
 | flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
@@ -79,9 +79,9 @@
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | pogo | ALL_DEAD | fuzzy-title | 1 | 0 | 6 | 6 |
-| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 5 | 6 |
+| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 8 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 8 | 8 |
-| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 11 | 6 | 8 | 8 |
+| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 6 | 8 | 8 |
 
 ## Legend
 
