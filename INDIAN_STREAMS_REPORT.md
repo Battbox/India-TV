@@ -1,11 +1,11 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-10-12 10:19 UTC
+**Generated:** 2026-10-13 10:11 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 68
+- **Updated:** 69
 - **Kept old (no fresh streams found):** 2
-- **Completely dead (no streams anywhere):** 1
+- **Completely dead (no streams anywhere):** 0
 
 ## Per-channel detail
 
@@ -27,7 +27,7 @@
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 10 | 6 | 8 | 8 |
+| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | sun-news | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 7 | 7 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
 | polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
@@ -64,7 +64,7 @@
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 3 | 3 | 6 | 6 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
-| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 6 | 8 | 8 |
+| 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 5 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 4 | 6 | 6 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | republic-tv | UPDATED | exact:RepublicTV.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
@@ -73,15 +73,15 @@
 | cnn-news18 | KEPT_OLD | no-match | 0 | 0 | 2 | 2 |
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 4 | 3 | 8 | 8 |
-| dd-national | UPDATED | exact:DDNational.in | 6 | 6 | 8 | 8 |
+| dd-national | UPDATED | exact:DDNational.in | 6 | 5 | 8 | 8 |
 | dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 7 | 6 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title | 7 | 6 | 8 | 8 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
-| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
-| pogo | ALL_DEAD | fuzzy-title | 1 | 0 | 6 | 6 |
-| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 8 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 8 | 8 |
-| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 6 | 8 | 8 |
+| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
+| pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
+| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 8 | 8 |
+| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 4 | 8 | 8 |
 
 ## Legend
 
