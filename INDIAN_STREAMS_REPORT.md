@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-10-13 10:11 UTC
+**Generated:** 2026-10-14 08:29 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 69
@@ -55,7 +55,7 @@
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title | 6 | 5 | 8 | 8 |
-| colors-bangla | UPDATED | exact:ColorsBangla.in+fuzzy-title | 3 | 2 | 8 | 8 |
+| colors-bangla | UPDATED | exact:ColorsBangla.in+fuzzy-title | 3 | 1 | 8 | 8 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
@@ -74,14 +74,14 @@
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 6 | 4 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 4 | 3 | 8 | 8 |
 | dd-national | UPDATED | exact:DDNational.in | 6 | 5 | 8 | 8 |
-| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 7 | 6 | 8 | 8 |
+| dd-sports | UPDATED | exact:DDSports.in+fuzzy-title | 7 | 5 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title | 7 | 6 | 8 | 8 |
 | sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 4 | 4 | 5 | 5 |
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 5 | 5 |
 | pogo | UPDATED | fuzzy-title | 1 | 1 | 6 | 6 |
 | cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 8 | 8 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 8 | 8 |
-| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 4 | 8 | 8 |
+| disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 5 | 8 | 8 |
 
 ## Legend
 
