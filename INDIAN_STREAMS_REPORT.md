@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-10-18 07:52 UTC
+**Generated:** 2026-10-19 08:34 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 70
@@ -27,7 +27,7 @@
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
 | 9xm | UPDATED | exact:9XM.in | 4 | 2 | 7 | 7 |
 | mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
-| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 10 | 6 | 8 | 8 |
+| b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | sun-news | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 2 | 7 | 7 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
 | polimer-news | UPDATED | exact:PolimerNews.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
@@ -47,7 +47,7 @@
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 3 | 3 | 5 | 5 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
-| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
+| surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 6 | 7 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 7 | 6 | 8 | 8 |
 | flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
@@ -62,7 +62,7 @@
 | abp-majha | UPDATED | exact:ABPMajha.in | 3 | 3 | 4 | 4 |
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
-| pitaara | UPDATED | alt:Pitaara.in | 3 | 2 | 6 | 6 |
+| pitaara | UPDATED | alt:Pitaara.in | 3 | 3 | 6 | 6 |
 | chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 6 | 5 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 4 | 4 | 6 | 6 |
