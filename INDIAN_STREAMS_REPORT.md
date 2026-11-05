@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-11-04 10:34 UTC
+**Generated:** 2026-11-05 10:25 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 70
@@ -15,14 +15,14 @@
 | aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 8 | 7 | 7 | 7 |
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
-| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
+| news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title | 3 | 2 | 8 | 8 |
-| sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 5 | 2 | 8 | 8 |
+| sab-tv | UPDATED | exact:SonySAB.in+fuzzy-title+fuzzy-title | 5 | 1 | 8 | 8 |
 | colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 4 | 8 | 8 |
-| and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
+| and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
 | 9xm | UPDATED | exact:9XM.in | 8 | 6 | 8 | 8 |
@@ -37,7 +37,7 @@
 | sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
-| abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
+| abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 7 | 7 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
@@ -46,7 +46,7 @@
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 16 | 7 | 8 | 8 |
 | mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 3 | 3 | 5 | 5 |
-| asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
+| asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 4 | 7 | 7 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 8 | 7 | 8 | 8 |
 | flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
@@ -63,7 +63,7 @@
 | tv9-marathi | UPDATED | exact:TV9Marathi.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | ptc-punjabi | UPDATED | exact:PTCPunjabi.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | pitaara | UPDATED | alt:Pitaara.in | 7 | 7 | 8 | 8 |
-| chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
+| chardikla | UPDATED | exact:ChardiklaTimeTV.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
 | 9x-tashan | UPDATED | exact:9XTashan.in | 9 | 7 | 8 | 8 |
 | ndtv-247 | UPDATED | exact:NDTV24x7.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | india-today | UPDATED | exact:IndiaToday.in+fuzzy-title+fuzzy-title | 11 | 7 | 8 | 8 |
@@ -80,7 +80,7 @@
 | shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 5 | 4 | 6 | 6 |
 | pogo | UPDATED | exact:Pogo.in+fuzzy-title | 2 | 1 | 7 | 7 |
 | cartoon-network | UPDATED | exact:CartoonNetwork.in+fuzzy-title+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
-| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 15 | 6 | 8 | 8 |
+| nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 15 | 7 | 8 | 8 |
 | disney-india | UPDATED | exact:DisneyChannel.in+fuzzy-title+fuzzy-title+fuzzy-title | 12 | 5 | 8 | 8 |
 
 ## Legend
