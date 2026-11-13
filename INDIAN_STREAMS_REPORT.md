@@ -1,6 +1,6 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-11-12 10:44 UTC
+**Generated:** 2026-11-13 10:37 UTC
 **Validation:** enabled (HEAD-checked)
 
 - **Updated:** 70
@@ -12,16 +12,16 @@
 | Channel | Status | Strategy | API found | Validated | Existing | Final |
 |---|---|---|---|---|---|---|
 | ndtv-india | UPDATED | exact:NDTVIndia.in+alt:NDTV24x7.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
-| aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 9 | 7 | 7 | 8 |
+| aajtak | UPDATED | exact:AajTak.in+fuzzy-title | 9 | 7 | 8 | 8 |
 | abp-news | UPDATED | exact:ABPNews.in+fuzzy-title+fuzzy-title | 13 | 7 | 8 | 8 |
 | india-tv | UPDATED | exact:IndiaTV.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | news18-india | UPDATED | exact:News18India.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | zee-news | UPDATED | exact:ZeeNews.in+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
 | republic-bharat | UPDATED | exact:RepublicBharat.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
-| zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
+| zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
-| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 4 | 8 | 8 |
+| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 3 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
@@ -39,13 +39,13 @@
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
-| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 7 | 8 |
+| gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
 | etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 3 | 3 | 4 | 4 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | manorama-news | UPDATED | exact:ManoramaNews.in+fuzzy-title+fuzzy-title | 16 | 7 | 8 | 8 |
-| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 4 | 4 | 5 | 6 |
+| mathrubhumi-news | UPDATED | exact:MathrubhumiNews.in | 4 | 4 | 6 | 6 |
 | asianet | UPDATED | exact:Asianet.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | surya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | mazhavil | UPDATED | exact:MazhavilManorama.in | 9 | 7 | 8 | 8 |
@@ -54,8 +54,8 @@
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
 | udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
 | zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 6 | 6 | 8 | 8 |
-| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 7 | 4 | 8 | 8 |
-| colors-bangla | UPDATED | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 3 | 8 | 8 |
+| zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 7 | 3 | 8 | 8 |
+| colors-bangla | UPDATED | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 1 | 8 | 8 |
 | sun-bangla | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | abp-ananda | UPDATED | exact:ABPAnanda.in+fuzzy-title+fuzzy-title | 7 | 7 | 8 | 8 |
 | zee-marathi | UPDATED | exact:ZeeMarathi.in+fuzzy-title+fuzzy-title | 7 | 5 | 8 | 8 |
@@ -73,13 +73,13 @@
 | cnn-news18 | UPDATED | exact:CNNNews18.in | 1 | 1 | 3 | 3 |
 | times-now | UPDATED | exact:TimesNow.in+fuzzy-title+fuzzy-title | 8 | 5 | 8 | 8 |
 | dd-news | UPDATED | exact:DDNews.in+fuzzy-title | 5 | 4 | 8 | 8 |
-| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 7 | 6 | 8 | 8 |
+| dd-national | UPDATED | exact:DDNational.in+fuzzy-title | 8 | 7 | 8 | 8 |
 | dd-sports | UPDATED | exact:DDSports.in | 8 | 7 | 8 | 8 |
 | aastha | UPDATED | exact:Aastha.in+fuzzy-title+fuzzy-title | 18 | 7 | 8 | 8 |
-| sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 6 | 6 | 7 |
-| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 6 | 5 | 6 | 7 |
+| sanskar | UPDATED | alt:SanskarTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 6 | 7 | 7 |
+| shubh-tv | UPDATED | exact:ShubhTV.in+fuzzy-title+fuzzy-title | 6 | 5 | 7 | 7 |
 | pogo | UPDATED | exact:Pogo.in+fuzzy-title | 2 | 1 | 8 | 8 |
-| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
+| cartoon-network | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 1 | 8 | 8 |
 | nick-india | UPDATED | exact:Nickelodeon.in+fuzzy-title+fuzzy-title+fuzzy-title | 6 | 2 | 8 | 8 |
 | disney-india | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 11 | 5 | 8 | 8 |
 
