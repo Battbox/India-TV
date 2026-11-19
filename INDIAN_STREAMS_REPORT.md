@@ -1,10 +1,10 @@
 # Indian Stream Sync Report
 
-**Generated:** 2026-11-18 11:13 UTC
+**Generated:** 2026-11-19 11:12 UTC
 **Validation:** enabled (HEAD-checked)
 
-- **Updated:** 70
-- **Kept old (no fresh streams found):** 1
+- **Updated:** 71
+- **Kept old (no fresh streams found):** 0
 - **Completely dead (no streams anywhere):** 0
 
 ## Per-channel detail
@@ -21,12 +21,12 @@
 | tv9-bharatvarsh | UPDATED | exact:TV9Bharatvarsh.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | zee-tv | UPDATED | exact:ZeeTV.in+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | sab-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
-| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 3 | 8 | 8 |
+| colors-tv | UPDATED | exact:Colors.in+fuzzy-title | 5 | 2 | 8 | 8 |
 | and-tv | UPDATED | exact:AndTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
 | b4u-movies | UPDATED | exact:B4UMovies.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | zee-bollywood | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 1 | 7 | 7 |
 | 9xm | UPDATED | exact:9XM.in | 8 | 6 | 8 | 8 |
-| mtv-beats | KEPT_OLD | no-match | 0 | 0 | 1 | 1 |
+| mtv-beats | UPDATED | fuzzy-title | 2 | 2 | 1 | 3 |
 | b4u-music | UPDATED | exact:B4UMusic.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
 | sun-news | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | thanthi-tv | UPDATED | exact:ThanthiTV.in+fuzzy-title+fuzzy-title | 7 | 6 | 8 | 8 |
@@ -35,12 +35,12 @@
 | zee-tamil | UPDATED | exact:ZeeTamil.in+fuzzy-title | 3 | 2 | 4 | 4 |
 | ktv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 3 | 3 | 6 | 6 |
 | sun-music | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
-| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 2 | 6 | 6 |
+| raj-tv | UPDATED | exact:RajTV.in+fuzzy-title+fuzzy-title+fuzzy-title | 5 | 3 | 6 | 6 |
 | tv9-telugu | UPDATED | exact:TV9Telugu.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | abn-telugu | UPDATED | fuzzy-title+fuzzy-title | 5 | 5 | 8 | 8 |
 | ntv-telugu | UPDATED | exact:NTVTelugu.in+fuzzy-title+fuzzy-title | 9 | 7 | 8 | 8 |
 | gemini-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 5 | 4 | 8 | 8 |
-| etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
+| etv-telugu | UPDATED | exact:ETVTelugu.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
 | zee-telugu | UPDATED | exact:ZeeTelugu.in+fuzzy-title | 3 | 3 | 4 | 4 |
 | sakshi-tv | UPDATED | exact:SakshiTV.in+fuzzy-title+fuzzy-title | 8 | 7 | 8 | 8 |
 | asianet-news | UPDATED | exact:AsianetNews.in+fuzzy-title+fuzzy-title | 10 | 7 | 8 | 8 |
@@ -52,7 +52,7 @@
 | flowers-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 8 | 6 | 8 | 8 |
 | tv9-kannada | UPDATED | exact:TV9Kannada.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
 | public-tv | UPDATED | exact:PublicTV.in+fuzzy-title+fuzzy-title | 12 | 7 | 8 | 8 |
-| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 2 | 8 | 8 |
+| udaya-tv | UPDATED | fuzzy-title+fuzzy-title+fuzzy-title | 4 | 3 | 8 | 8 |
 | zee-kannada | UPDATED | exact:ZeeKannada.in+fuzzy-title+fuzzy-title | 6 | 5 | 8 | 8 |
 | zee-bangla | UPDATED | exact:ZeeBangla.in+fuzzy-title+fuzzy-title | 6 | 3 | 8 | 8 |
 | colors-bangla | UPDATED | exact:ColorsBangla.in+fuzzy-title+fuzzy-title | 6 | 1 | 8 | 8 |
